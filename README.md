@@ -5,7 +5,7 @@ This portfolio was made with HTML and CSS bootstrap.
 ```
 
 
-<img width="727" alt="Portfolio" src="https://user-images.githubusercontent.com/67169488/91115968-f6c37c00-e650-11ea-818e-86157a751796.png">
+<img width="1140" alt="Port" src="https://user-images.githubusercontent.com/67169488/97124784-79bf8c00-16ff-11eb-9d9d-01b4e7d29dfa.png">
 
 
 [Portfolio!](https://gcloud11.github.io/Portfolio/)
