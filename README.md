@@ -1,7 +1,7 @@
 # Portfolio
 
 ```
-This portfolio was made with HTML and CSS bootstrap. 
+This portfolio was made with HTML CSS bootstrap and vanilla Javascript.
 ```
 
 
