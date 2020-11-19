@@ -31,8 +31,15 @@ body, html {
   min-height: 400px;
 }
 
-.w3-wide {letter-spacing: 10px;}
-.w3-hover-opacity {cursor: pointer; color: black;}
+.w3-wide {
+  letter-spacing: 10px;
+}
+
+.w3-hover-opacity {
+  cursor: pointer; 
+  color: black;
+  opacity: 0.7;
+}
 
 /* Turn off parallax scrolling for tablets and phones */
 @media only screen and (max-device-width: 1600px) {
@@ -111,7 +118,8 @@ body, html {
 }
 
 .title-black {
-  color: rgb(0, 0, 0);
+  color: black;
+  opacity: 0.9;
 }
 
 @media all and (max-width: 500px) {
