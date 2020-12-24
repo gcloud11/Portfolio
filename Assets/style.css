@@ -128,3 +128,8 @@ body, html {
     flex-direction: column;
   }
 }
+
+.resume-btn {
+  display: block;
+  margin: 0 auto;
+}
